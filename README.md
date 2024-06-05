@@ -1,2 +1,2 @@
 # NextMysterMessagingApp
-This is be the third full stack next project 
+This is going to be the third full stack next project 
